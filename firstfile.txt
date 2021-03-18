@@ -9,3 +9,5 @@ create file and add to github
 adding lines to my application
 
 adding the test feature to my application
+
+adding document as new feature
